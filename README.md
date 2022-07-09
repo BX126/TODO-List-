@@ -4,7 +4,7 @@
 
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 
-本项目使用了create-react-app脚手架，CSS Flex进行页面布局， 并使用 useState Hook 以及 useEffect Hook实现添加 /完成 / 删除任务。
+本项目使用了React，CSS Flex进行页面布局， 并使用 useState Hook 以及 useEffect Hook实现添加 /完成 / 删除任务。
 
 ## 内容列表
 
